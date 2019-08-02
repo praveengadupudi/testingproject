@@ -5,6 +5,7 @@ Testing sample code
 	<description>Sample Appium tests using JUnit</description>
 	<dependencies>
 		<dependency>
+			<1234>sample<1234>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
