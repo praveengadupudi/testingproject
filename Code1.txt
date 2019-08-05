@@ -1,4 +1,3 @@
-# Sample commentasdasdasdasdasd
 Testing sample code
 	<artifactId>sauce_appium_junit</artifactId>
 	<name>sauce_junit</name>
