@@ -40,7 +40,7 @@ Testing sample code
 			<version>2.2.4</version>
 		</dependency>
 	</dependencies>
-#https://guides.github.com/activities/hello-world/
+#https://guides.github.com/activities/hello-world1/
 	<build>
 		<plugins>
 			<plugin>
